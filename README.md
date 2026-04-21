@@ -43,4 +43,4 @@ Soy un desarrollador con un perfil creativo , enfocado en construir ecosistemas 
 
 ---
 *Desarrollo, innovación y calidad aplicada al software.*
----
+
