@@ -4,7 +4,7 @@
 
 <br>
 
-Soy un desarrollador con un perfil creativo , enfocado en construir ecosistemas digitales que combinan la **estética visual** y la **eficiencia técnica**[cite: 4]. [cite_start]Mi objetivo es el desarrollo e integración de nuevas tecnologías para crear soluciones que optimicen flujos de trabajo y maximicen la escalabilidad.
+Soy un desarrollador con un perfil creativo , enfocado en construir ecosistemas digitales que combinan la **estética visual** y la **eficiencia técnica**. Mi objetivo es el desarrollo e integración de nuevas tecnologías para crear soluciones que optimicen flujos de trabajo y maximicen la escalabilidad.
 
 <br>
 
