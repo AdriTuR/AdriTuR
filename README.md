@@ -1,28 +1,33 @@
-# ¡Hola! Soy Adrián Tur Rubio 🚀
+# ¡Bienvenido! [cite_start]Soy Adrián Tur Rubio [cite: 1]
 
-### Full-Stack Developer
+### Full-Stack Developer | [cite_start]Creative Tech Integration [cite: 2, 4]
 
-Soy un desarrollador con un perfil creativo, enfocado en construir ecosistemas digitales que combinan la **estética visual** y la **eficiencia técnica**. Mi objetivo es el desarrollo e integración de nuevas tecnologías para crear soluciones que optimicen flujos de trabajo y maximicen la escalabilidad.
+<br>
 
+[cite_start]Soy un desarrollador con un perfil creativo [cite: 5][cite_start], enfocado en construir ecosistemas digitales que combinan la **estética visual** y la **eficiencia técnica**[cite: 4]. [cite_start]Mi objetivo es el desarrollo e integración de nuevas tecnologías para crear soluciones que optimicen flujos de trabajo y maximicen la escalabilidad[cite: 6].
 
+<br>
+<br>
 
 ## ⚡ Sobre mí
 
+- 🎨 **Perfil Creativo:** Entiendo el software como una herramienta para materializar ideas, con un sólido diseño **UX/UI** centrado en el usuario.
+- 🔧 **Stack Principal:** Especializado en el ecosistema **PHP, React, TypeScript y PostgreSQL** para desarrollar aplicaciones robustas y escalables. 
+- 🤖 **Innovación e Integración:** Apasionado por la integración de nuevas tecnologías como **IA (OpenAI API)** e **IoT (Arduino/Raspberry Pi)**. 
+- 🛠 **Calidad Técnica:** Enfocado en la calidad del código, el modelado de datos y la arquitectura de software bajo metodologías ágiles. 
 
--🎨 **Perfil Creativo:** Entiendo el software como una herramienta para materializar ideas, con un sólido diseño **UX/UI** centrado en el usuario.
--🔧 **Stack Principal:** Especializado en el ecosistema **PHP, React, TypeScript y PostgreSQL** para desarrollar aplicaciones robustas y escalables. 
--🤖 **Innovación e Integración:** Apasionado por la integración de nuevas tecnologías como **IA (OpenAI API)** e **IoT (Arduino/Raspberry Pi)**. 
--🛠 **Calidad Técnica:** Enfocado en la calidad del código, el modelado de datos y la arquitectura de software bajo metodologías ágiles. 
+<br>
+<br>
 
+## 🛠️ Stack Tecnológico
 
-## 🛠️ Tech Stack
-
-
-### 💻 Core Technologies
+### 💻 Principales
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
 
 ### 🚀 Integración & Herramientas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -31,13 +36,15 @@ Soy un desarrollador con un perfil creativo, enfocado en construir ecosistemas d
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
+<br>
+<br>
 
 ## 📫 Conectemos
 
+- [cite_start]📧 Email: [adria.tur.rubio@gmail.com](mailto:adria.tur.rubio@gmail.com)
+- [cite_start]📍 Comunitat Valenciana, España.
 
--📧 Email: [adria.tur.rubio@gmail.com](mailto:adria.tur.rubio@gmail.com)
--📍 Comunitat Valenciana, España.
+<br>
 
 ---
 *Desarrollo, innovación y calidad aplicada al software.*
