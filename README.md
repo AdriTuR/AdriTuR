@@ -7,7 +7,7 @@ Soy un desarrollador con un perfil creativo, enfocado en construir ecosistemas d
 
 
 ## ⚡ Sobre mí
----
+
 
 -🎨 **Perfil Creativo:** Entiendo el software como una herramienta para materializar ideas, con un sólido diseño **UX/UI** centrado en el usuario.
 -🔧 **Stack Principal:** Especializado en el ecosistema **PHP, React, TypeScript y PostgreSQL** para desarrollar aplicaciones robustas y escalables. 
@@ -15,9 +15,8 @@ Soy un desarrollador con un perfil creativo, enfocado en construir ecosistemas d
 -🛠 **Calidad Técnica:** Enfocado en la calidad del código, el modelado de datos y la arquitectura de software bajo metodologías ágiles. 
 
 
-
 ## 🛠️ Tech Stack
----
+
 
 ### 💻 Core Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -35,7 +34,7 @@ Soy un desarrollador con un perfil creativo, enfocado en construir ecosistemas d
 
 
 ## 📫 Conectemos
----
+
 
 -📧 Email: [adria.tur.rubio@gmail.com](mailto:adria.tur.rubio@gmail.com)
 -📍 Comunitat Valenciana, España.
