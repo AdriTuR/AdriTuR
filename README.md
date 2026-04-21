@@ -4,18 +4,20 @@
 
 Soy un desarrollador con un perfil creativo, enfocado en construir ecosistemas digitales que combinan la **estética visual** y la **eficiencia técnica**. Mi objetivo es el desarrollo e integración de nuevas tecnologías para crear soluciones que optimicen flujos de trabajo y maximicen la escalabilidad.
 
----
+
 
 ## ⚡ Sobre mí
+---
 
 -🎨 **Perfil Creativo:** Entiendo el software como una herramienta para materializar ideas, con un sólido diseño **UX/UI** centrado en el usuario.
 -🔧 **Stack Principal:** Especializado en el ecosistema **PHP, React, TypeScript y PostgreSQL** para desarrollar aplicaciones robustas y escalables. 
 -🤖 **Innovación e Integración:** Apasionado por la integración de nuevas tecnologías como **IA (OpenAI API)** e **IoT (Arduino/Raspberry Pi)**. 
 -🛠 **Calidad Técnica:** Enfocado en la calidad del código, el modelado de datos y la arquitectura de software bajo metodologías ágiles. 
 
----
+
 
 ## 🛠️ Tech Stack
+---
 
 ### 💻 Core Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -30,12 +32,14 @@ Soy un desarrollador con un perfil creativo, enfocado en construir ecosistemas d
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+
 
 ## 📫 Conectemos
+---
 
 -📧 Email: [adria.tur.rubio@gmail.com](mailto:adria.tur.rubio@gmail.com)
 -📍 Comunitat Valenciana, España.
 
 ---
 *Desarrollo, innovación y calidad aplicada al software.*
+---
