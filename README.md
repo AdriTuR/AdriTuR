@@ -32,11 +32,6 @@ Soy un desarrollador con un perfil creativo, enfocado en construir ecosistemas d
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdriTuR&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Conectemos
 
 -📧 Email: [adria.tur.rubio@gmail.com](mailto:adria.tur.rubio@gmail.com)
