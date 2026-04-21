@@ -39,8 +39,8 @@ Soy un desarrollador con un perfil creativo, enfocado en construir ecosistemas d
 
 ## 📫 Conectemos
 
--📧 Email: [adria.tur.rubio@gmail.com](mailto:adria.tur.rubio@gmail.com) [cite: 11]
--📍 Comunitat Valenciana, España. [cite: 12]
+-📧 Email: [adria.tur.rubio@gmail.com](mailto:adria.tur.rubio@gmail.com)
+-📍 Comunitat Valenciana, España.
 
 ---
 *Desarrollo, innovación y calidad aplicada al software.*
