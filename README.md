@@ -1,4 +1,4 @@
-# ¡Bienvenido! [cite_start]Soy Adrián Tur Rubio [cite: 1]
+# ¡Bienvenido! Soy Adrián Tur Rubio
 
 ### Full-Stack Developer
 
