@@ -6,12 +6,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Ingeniero de Software con formación en **Tecnologías Interactivas por la UPV**. Mi perfil combina el desarrollo **Full-Stack** con una base sólida en el diseño de interfaces y la integración de nuevas tecnologías como la **IA** y el **IoT**.
-
-Trabajo actualmente en **VickyFoods** en el desarrollo y mantenimiento del ERP empresarial. Me interesa el desarrollo de soluciones completas, desde la planificación hasta la implementación, combinando programación, diseño y automatización. He trabajado con diferentes tecnologías, aplicando siempre buenas prácticas y trabajo colaborativo.
-
-Tengo una gran motivación por el aprendizaje continuo y la superación de retos técnicos. Me enfoco en buscar soluciones eficaces y profesionales ante problemas complejos, aportando rigor técnico y compromiso con la calidad en cada proyecto.
-
+Soy un desarrollador con un perfil creativo , enfocado en construir ecosistemas digitales que combinan la **estética visual** y la **eficiencia técnica**. Mi objetivo es el desarrollo e integración de nuevas tecnologías para crear soluciones que optimicen flujos de trabajo y maximicen la escalabilidad.
 ---
 
 ## 🛠️ Stack Tecnológico
