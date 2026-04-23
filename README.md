@@ -9,7 +9,7 @@
 Soy un **Ingeniero de Software** y **Desarrollador Full-Stack** con un enfoque multidisciplinar que combina el rigor técnico con la creación de **soluciones digitales de alto impacto**. Mi metodología de trabajo se basa en tres pilares: **eficiencia técnica, calidad de código y diseño centrado en el usuario**. Me especializo en diseñar y construir soluciones tecnológicas robustas, con una alta capacidad para **integrar nuevas tecnologías** en sistemas funcionales y escalables. Creo firmemente que la ingeniería de calidad debe ir acompañada de interfaces excepcionales y una experiencia de usuario impecable. Me encuentro en un proceso de aprendizaje constante, entusiasmado por el dominio de nuevas tecnologías y por mi alta capacidad de adaptación para implementarlas con agilidad en cada proyecto
 
 ### Especializaciones:
-- 💻 **Software Engineering & Full-Stack Development**
+- 💻 **Ingeniero de Software & Desarrollador Full-Stack**
 - 🤖 **Automatización & IA**
 - 📱 **Web & Apps móviles**
 - 🌐 **Internet of Things (IoT)**
