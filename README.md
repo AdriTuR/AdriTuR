@@ -16,7 +16,7 @@ Soy un **Ingeniero de Software** y **Desarrollador Full-Stack** con un enfoque m
 - 🎮 **Videojuegos**
 - 🎨 **Diseño UX/UI**
 
-### Mi enfoque profesional:
+### Enfoque profesional:
 - 🛠 **Calidad y Eficiencia:** Desarrollo de software profesional bajo buenas prácticas y arquitecturas escalables. 
 - 🎨 **Estética y Funcionalidad:** Pasión por el diseño de interfaces (UI) de alto impacto y experiencias (UX) fluidas. 
 - 🤖 **Integración Tecnológica:** Capacidad de adaptación y aplicación de vanguardia en IA, Robótica e IoT. 
