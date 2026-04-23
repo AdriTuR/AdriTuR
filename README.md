@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/portada_perfil-ingeniero-software.jfif" width="1000" alt="Adrián Tur Rubio - Software Engineer | Full-Stack | AI & IoT Banner">
+</p>
+
 # ¡Hola! Soy Adrián Tur Rubio 🚀
 
 ### Software Engineer | Full-Stack Developer | Creative Tech Integration
