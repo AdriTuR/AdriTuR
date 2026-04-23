@@ -48,12 +48,6 @@ Tengo una gran motivación por el aprendizaje continuo y la superación de retos
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<br>
-
----
-
-## 📈 Mi Actividad
-![Estadísticas de AdriTuR](https://github-readme-stats.vercel.app/api?username=AdriTuR&show_icons=true&theme=tokyonight&hide_border=true)
 
 <br>
 
