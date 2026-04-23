@@ -16,7 +16,6 @@ Me especializo en diseñar y construir soluciones tecnológicas robustas, con un
 - 🤖 **Integración Tecnológica:** Capacidad de adaptación y aplicación de vanguardia en IA, Robótica e IoT. 
 - 📈 **Mentalidad Resolutiva:** Gran motivación por superar retos técnicos, aprendizaje continuo y búsqueda de soluciones eficaces. 
 
----
 
 ## 🛠️ Stack Tecnológico
 
