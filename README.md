@@ -6,7 +6,7 @@
 
 <br>
 
-Soy un **Ingeniero de Software** y **Desarrollador Full-Stack** enfocado en la creación de **software robusto, escalable y con un fuerte enfoque en la experiencia de usuario**. Mi metodología de trabajo se basa en tres pilares: **eficiencia técnica, calidad de código y diseño centrado en el usuario**. Me especializo en diseñar y construir soluciones tecnológicas robustas, con una alta capacidad para **integrar nuevas tecnologías** en sistemas funcionales y escalables. Creo firmemente que la ingeniería de calidad debe ir acompañada de interfaces excepcionales y una experiencia de usuario impecable. Me encuentro en un proceso de aprendizaje constante, entusiasmado por el dominio de nuevas tecnologías y por mi alta capacidad de adaptación para implementarlas con agilidad en cada proyecto
+Soy un **Ingeniero de Software** y **Desarrollador Full-Stack** enfocado en la creación de **software robusto, escalable y con un fuerte enfoque en la experiencia de usuario**. Mi metodología de trabajo se basa en tres pilares: **eficiencia técnica, calidad de código y diseño centrado en el usuario**. Me especializo en diseñar y construir soluciones tecnológicas robustas, con una alta capacidad para **integrar nuevas tecnologías** en sistemas funcionales y escalables. Creo firmemente que la ingeniería de calidad debe ir acompañada de interfaces excepcionales y una experiencia de usuario impecable. Me encuentro en un proceso de aprendizaje constante, entusiasmado por el dominio de nuevas tecnologías y por mi alta capacidad de adaptación para implementarlas con agilidad en cada proyecto.
 
 ### Especializaciones:
 - 💻 **Ingeniero de Software & Desarrollador Full-Stack**
