@@ -30,7 +30,6 @@ Soy un **Ingeniero de Software** y **Desarrollador Full-Stack** con un enfoque m
 <td>
 
 ### 🎯 Core Stack
-*Las tecnologías que definen mi trabajo diario ey proyectos:*
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,ts,react,postgres,openai" />
