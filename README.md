@@ -10,7 +10,7 @@ Soy un **Ingeniero de Software** y **Desarrollador Full-Stack** enfocado en la c
 
 ### Especializaciones:
 - 💻 **Ingeniero de Software & Desarrollador Full-Stack**
-- 🤖 **Automatización & IA**
+- 🤖 **Inteligencia Artificial**
 - 📱 **Web & Apps móviles**
 - 🌐 **Internet of Things (IoT)**
 - 🎮 **Videojuegos**
